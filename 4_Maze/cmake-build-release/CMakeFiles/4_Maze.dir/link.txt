@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/4_Maze.dir/sources/cell.cpp.o CMakeFiles/4_Maze.dir/sources/dsu.cpp.o CMakeFiles/4_Maze.dir/sources/maze.cpp.o CMakeFiles/4_Maze.dir/main.cpp.o  -o 4_Maze 

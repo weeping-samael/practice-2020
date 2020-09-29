@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5b955ec-cf18-48d9-82cc-da1dd743eb6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_BlackAndWhite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/dist/tess4j-3.4.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/commons-beanutils-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/fontbox-2.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/ghost4j-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/itext-2.1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/jai-imageio-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/jbig2-imageio-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/jboss-vfs-3.2.12.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/jna-4.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/lept4j-1.6.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/log4j-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/nblibraries.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/pdfbox-2.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/pdfbox-tools-2.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/win32-x86-64/libtesseract3051.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/win32-x86/libtesseract3051.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/lib/xmlgraphics-commons-1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/readme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/com/recognition/software/jdeskew/ImageDeskew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/com/recognition/software/jdeskew/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/ITessAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/ITesseract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/TessAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/TessAPI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/Tesseract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/Tesseract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/TesseractException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/ImageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/ImageIOHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/LoadLibs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/LoggHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/LoggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/PdfBoxUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/PdfGsUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/PdfUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/src/net/sourceforge/tess4j/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/tessdata/configs/api_config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/tessdata/configs/digits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/tessdata/configs/hocr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/tessdata/eng.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/tessdata/osd.traineddata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/tessdata/pdf.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/tessdata/pdf.ttx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/ProgressMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/TessAPI1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/TessAPIImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/TessAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/Tesseract1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/TesseractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/TestFolderExtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/net/sourceforge/tess4j/util/PdfUtilitiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/eurotext.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/eurotext.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/eurotext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/eurotext.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/eurotext_deskew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/eurotext_unlv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/eurotext_unlv.uzn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/test/resources/test-data/multipage-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess4J/versionchanges.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blandwh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blandwh_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1_BlackAndWhite/BlackAndWhite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1_BlackAndWhite/GridDrawer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1_BlackAndWhite/GridParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1_BlackAndWhite/GridWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1_BlackAndWhite/MyColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlackAndWhite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GridDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GridParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GridWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/4_Maze" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/4_Maze.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/4_Maze.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/4_Maze.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/4_Maze.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/4_Maze.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/4_Maze.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/4_Maze.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/4_Maze.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-debug/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/4_Maze" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/4_Maze.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/4_Maze.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/4_Maze.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/4_Maze.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/4_Maze.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/4_Maze.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/4_Maze.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/4_Maze.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/cmake-build-release/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/headers/cell.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/headers/constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/headers/direction.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/headers/dsu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/headers/maze.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/sources/cell.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/sources/dsu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Maze/sources/maze.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CELL_HEIGHT</find>
+      <find>UNKNOWN</find>
+      <find>blﬂc</find>
+      <find>mm</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cellHeight</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ewg1I1IHaTxeSxA7XvEJAdqpRK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582809546974" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tess4J/tessdata" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlackAndWhite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackAndWhite" />
+      <module name="1_BlackAndWhite" />
+      <option name="PROGRAM_PARAMETERS" value="blandwh.png" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlackAndWhite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5b955ec-cf18-48d9-82cc-da1dd743eb6c" name="Default Changelist" comment="" />
+      <created>1582743838903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582743838903</updated>
+      <workItem from="1582743846783" duration="946000" />
+      <workItem from="1582746071142" duration="2781000" />
+      <workItem from="1582749088079" duration="1130000" />
+      <workItem from="1582750832541" duration="681000" />
+      <workItem from="1582792411446" duration="1548000" />
+      <workItem from="1582794205459" duration="3328000" />
+      <workItem from="1582797773075" duration="259000" />
+      <workItem from="1582801408044" duration="7347000" />
+      <workItem from="1582820901959" duration="2167000" />
+      <workItem from="1595237900088" duration="470000" />
+      <workItem from="1599427256327" duration="95000" />
+      <workItem from="1601395452684" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601395479769">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601395479769" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1595238387229">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1595238387229" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1595238403051">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1595238403051" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1595238403051">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1595238403051" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1595238403050">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1595238403050" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1595238403051">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1595238403051" />
+    <state x="429" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1599427325634">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="429" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1599427325634" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1595238338891" />
+    <state x="305" y="280" width="1372" height="554" key="new project wizard" timestamp="1595238393565">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="305" y="280" width="1372" height="554" key="new project wizard/72.27.1848.1053@72.27.1848.1053" timestamp="1595238393565" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1_BlackAndWhite</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="4_Maze"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_Maze">
+				<Option output="/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/4_Maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dunidin/Work/ITMO/practice-2020/4_Maze/headers"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_Maze"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_Maze/fast">
+				<Option output="/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/4_Maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dunidin/Work/ITMO/practice-2020/4_Maze/headers"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_Maze/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dunidin/Work/ITMO/practice-2020/4_Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/CMakeLists.txt">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/headers/cell.h">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/headers/constants.h">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/headers/direction.h">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/headers/dsu.h">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/headers/maze.h">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/main.cpp">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/sources/cell.cpp">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/sources/dsu.cpp">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/sources/maze.cpp">
+			<Option target="4_Maze"/>
+		</Unit>
+		<Unit filename="/home/dunidin/Work/ITMO/practice-2020/4_Maze/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
